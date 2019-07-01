@@ -4,10 +4,12 @@
 - [Architecture overview](#Architecture-overview)
 - [References](#References)
 - [Future Scope](#Future-Scope)
-Problem Domain 
+
+
+## Problem Domain ##
 Every day, people rely on a wide variety of sources to stay informed -- from news stories to social media posts to search results. Being able to develop Machine Learning models that can automatically deliver accurate summaries of longer text can be useful, for digesting such large amounts of information in a compressed form, could be useful in many fields 
 
-Extractive and Abstractive summarization
+## Extractive and Abstractive summarization ##
 
 One approach to summarization is to extract parts of the document that are deemed interesting by some metric (for example, inverse-document frequency) and join them to form a summary. Algorithms of this flavor are called extractive summarization.
 Original Text: Alice and Bob took the train to visit the zoo. They saw a baby giraffe, a lion, and a flock of colorful tropical birds. 
