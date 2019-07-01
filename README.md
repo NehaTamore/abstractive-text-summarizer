@@ -24,17 +24,18 @@ In this example, we used words not in the original text, maintaining more of the
 ![architecture ](https://cdn-images-1.medium.com/max/2560/1*nYptRUTtVd9xUjwL-cVL3Q.png)
 
 Encoder decoder model specifications :
-word representations : Glove, Alternatives : word2vec, universal sentence encoder, ELMO
-vocab size = 10000                           
-maximum text length = 22             
-summary length = 9
-embedding size = 200                         
-batch size  = 2096
-numner of epochs = 15
-time taken for each epoch = 1300 sec approx
-RNN units = CuDNNLSTM
-seq2seq Bidrectional LSTM Encoder with unidirectional decoder using Glove embeddings
-Data set :1M samples of kindle reviews and summaries
+
+- word representations : Glove, Alternatives : word2vec, universal sentence encoder, ELMO
+- vocab size = 10000                           
+- maximum text length = 22             
+- summary length = 9
+- embedding size = 200                         
+- batch size  = 2096
+- numner of epochs = 15
+- time taken for each epoch = 1300 sec approx
+- RNN units = CuDNNLSTM
+- seq2seq Bidrectional LSTM Encoder with unidirectional decoder using Glove embeddings
+- Data set :1M samples of kindle reviews and summaries
 link : https://www.kaggle.com/bharadwaj6/kindle-reviews 
 
 ## References ##
