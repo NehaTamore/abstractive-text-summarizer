@@ -37,10 +37,10 @@ seq2seq Bidrectional LSTM Encoder with unidirectional decoder using Glove embedd
 Data set :1M samples of kindle reviews and summaries
 link : https://www.kaggle.com/bharadwaj6/kindle-reviews 
 
-## References ##: 
+## References ##
 https://arxiv.org/pdf/1409.3215.pdf
 
-## Future Scope ##:
+## Future Scope ##
 1. Training for more epochs 
 2. Increasing batch size
 3. Implementing Attention Mechanism
