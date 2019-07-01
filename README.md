@@ -1,9 +1,9 @@
 # Abstractive text summarizer
-[ Problem Domain . ](#Problem-Domain )
-[Extractive and Abstractive summarization](#Extractive-and-Abstractive-summarization)
-[Architecture overview](#Architecture-overview)
-[References](#References)
-[Future Scope](#Future-Scope)
+- [ Problem Domain . ](#Problem-Domain )
+- [Extractive and Abstractive summarization](#Extractive-and-Abstractive-summarization)
+- [Architecture overview](#Architecture-overview)
+- [References](#References)
+- [Future Scope](#Future-Scope)
 Problem Domain 
 Every day, people rely on a wide variety of sources to stay informed -- from news stories to social media posts to search results. Being able to develop Machine Learning models that can automatically deliver accurate summaries of longer text can be useful, for digesting such large amounts of information in a compressed form, could be useful in many fields 
 
